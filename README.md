@@ -12,6 +12,6 @@ Always eager to learn new technologies and stay up-to-date with the latest trend
 
 **Languages and Tools:**  
 
-![My Skills](https://skillicons.dev/icons?i=ts,next,react,js,tailwind,aws)
+![My Skills](https://skillicons.dev/icons?i=ts,next,react,js,tailwind,bootstrap,nodejs,express,mongodb)
 
 
