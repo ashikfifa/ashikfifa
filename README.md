@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### 🌍 Hello World👋, I'm Md Asiquzzaman!
 
 🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.
